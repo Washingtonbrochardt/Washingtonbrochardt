@@ -1,11 +1,5 @@
 ## Olá! Eu sou Washington Brochardt  👋
 
-<div> 
-  <a href="https://www.linkedin.com/in/washington-brochardt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-##
-
 <div align="center">
   <a href="https://github.com/Washingtonbrochardt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Washingtonbrochardt&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -23,5 +17,12 @@
   <img align="center" alt="Was-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="Was-Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
+
+  ##
+  
+  <div> 
+  <a href="https://www.linkedin.com/in/washington-brochardt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 
 
